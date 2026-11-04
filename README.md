@@ -1,10 +1,3 @@
-<!--
-  This is Pedro's GitHub PROFILE README.
-  It lives in the repository github.com/pengel13/pengel13 (a repo named exactly "pengel13"),
-  where GitHub shows it on the profile page github.com/pengel13.
-  This copy is kept here in the website repo for convenience; edit both when you change it.
--->
-
 # Hi, I'm Pedro Engel
 
 Software developer working across enterprise software, practical AI tooling, and
@@ -38,13 +31,3 @@ Full case studies on my [portfolio](https://pengel13.github.io).
 Based in São Leopoldo, Brazil. I speak Portuguese and English, and I'm learning German.
 
 [LinkedIn](https://www.linkedin.com/in/pedro-engel/) · [Portfolio](https://pengel13.github.io)
-
----
-
-### Olá, eu sou o Pedro Engel
-
-Desenvolvedor de software atuando entre software empresarial, ferramentas práticas de IA
-e aplicações orientadas por dados. Estudante de Ciência da Computação na Unisinos,
-desenvolvendo na SAP e na Sinosbyte.
-
-Veja meu portfólio em **[pengel13.github.io](https://pengel13.github.io)**.
