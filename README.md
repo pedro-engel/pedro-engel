@@ -28,6 +28,6 @@ Full case studies on my [portfolio](https://pengel13.github.io).
 
 ## Beyond the code
 
-Based in São Leopoldo, Brazil. I speak Portuguese and English, and I'm learning German.
+Based in São Leopoldo, Brazil. I speak Portuguese and English, with a beginner's grounding in German.
 
 [LinkedIn](https://www.linkedin.com/in/pedro-engel/) · [Portfolio](https://pengel13.github.io)
