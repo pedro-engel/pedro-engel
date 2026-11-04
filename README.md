@@ -3,7 +3,7 @@
 Software developer working across enterprise software, practical AI tooling, and
 data-driven applications. Computer Science student at Unisinos, developing at SAP and Sinosbyte.
 
-**[View my portfolio → pengel13.github.io](https://pengel13.github.io)**
+**[View my portfolio → pedro-engel.github.io](https://pedro-engel.github.io)**
 
 ## What I focus on
 
@@ -19,7 +19,7 @@ data-driven applications. Computer Science student at Unisinos, developing at SA
   fabrication data to an ERP through a Django REST backend.
 - **Knowledge, made reusable** — reusable AI skills for SAP HCM, adopted across six teams.
 
-Full case studies on my [portfolio](https://pengel13.github.io).
+Full case studies on my [portfolio](https://pedro-engel.github.io).
 
 ## Tools I use
 
@@ -30,4 +30,4 @@ Full case studies on my [portfolio](https://pengel13.github.io).
 
 Based in São Leopoldo, Brazil. I speak Portuguese and English, with a beginner's grounding in German.
 
-[LinkedIn](https://www.linkedin.com/in/pedro-engel/) · [Portfolio](https://pengel13.github.io)
+[LinkedIn](https://www.linkedin.com/in/pedro-engel/) · [Portfolio](https://pedro-engel.github.io)
